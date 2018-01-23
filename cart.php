@@ -11,7 +11,7 @@ include("includes/db.php");
 		<title>My Online Shop</title>
 		
 		
-	<link rel="stylesheet" href="styles/style.css" media="all" /> 
+	<link rel="stylesheet" href="styles/style.css" media="all"> 
 	</head>
 	
 <body>
